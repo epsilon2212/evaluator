@@ -1,4 +1,4 @@
-Provides a synchronized communication between two group of processes with certain limitations (e.g number of processes from the same group running concurrently).
+Provides a synchronized communication between two groups of processes with certain limitations (e.g number of processes from the same group running concurrently).
 Demonstrates usage of pipes, forks, execs, signals and general synchronization.
 
 There are two groups of processes: policies and environments.
